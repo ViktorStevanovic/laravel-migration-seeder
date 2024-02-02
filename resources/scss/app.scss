@@ -1,1 +1,26 @@
 @import "../../node_modules/bootstrap/scss/bootstrap";
+
+body{
+    background-color: #FFE7E7;
+}
+
+h1{
+    color: #944E63
+}
+.card{
+    background-color:#CAA6A6 ;
+    h5{
+        color: #FFE7E7;
+
+    }
+    h6, p{
+        color: #FFE7E7;
+    }
+    span{
+        color: #944E63
+    }
+    a{
+        text-decoration: underline;
+        color: #944E63;
+    }
+}
